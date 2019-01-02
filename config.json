@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "prefix": "$",
+  "pm": true,
+  "defaultChannel": "general",
+  "loopSpeed": 300
+}
